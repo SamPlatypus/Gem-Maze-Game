@@ -1,0 +1,31 @@
+{
+  "id": "./",
+  "name": "Gem Maze",
+  "short_name": "Gem Maze",
+  "description": "A first-person low-poly 3D maze. Drag to look, tap to walk, collect gems and find the glowing gate. Works offline.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#cfe6ff",
+  "theme_color": "#cfe6ff",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
